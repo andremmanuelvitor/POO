@@ -1,5 +1,5 @@
-# POO
-Aqui tem os códigos que julguei serem os mais interessantes dentre vários que foram realizados como laboratório de Programação Orientada a Objetos.
+# Programação Orientada a Objetos (POO)
+Aqui tem os códigos que julguei serem os mais interessantes dentre vários que foram realizados como laboratório de POO.
 
 <ul>
 <li>O Lab02 trabalha com ponteiro e endereço de memória, sendo interessante para esse aprendizado.</li>
