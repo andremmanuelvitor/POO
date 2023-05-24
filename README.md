@@ -1,5 +1,5 @@
 # POO
-Aqui tem alguns códigos dentre vários, que julguei serem interessantes, e foram realizados como laboratório de Programação Orientada a Objetos.
+Aqui tem os códigos que julguei serem os mais interessantes dentre vários que foram realizados como laboratório de Programação Orientada a Objetos.
 
 <ul>
 <li>O Lab02 trabalha com ponteiro e endereço de memória, sendo interessante para esse aprendizado</li>
